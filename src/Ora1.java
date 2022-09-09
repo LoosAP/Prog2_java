@@ -34,7 +34,7 @@ public class Ora1 extends Object{
 
         String s1 = "a";
         String s2 = "b";
-        System.out.println(s1+s2);
+//        System.out.println(s1+s2);
         System.out.println(s1.concat(s2));
 
         int rand = (int) (Math.random()*101);

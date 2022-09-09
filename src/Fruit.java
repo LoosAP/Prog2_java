@@ -1,3 +1,4 @@
+import java.util.Objects;
 
 public class Fruit {
     private int id;
@@ -45,15 +46,27 @@ public class Fruit {
                 '}';
     }
 
+//    @Override
+//    public boolean equals(Object obj) {
+//        return super.equals(obj);
+//    }
+//
+//    @Override
+//    public int hashCode() {
+//        return super.hashCode();
+//    }
+
+
     @Override
-    public boolean equals(Object obj) {
-        return super.equals(obj);
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Fruit fruit = (Fruit) o;
+        return id == fruit.id && Objects.equals(nev, fruit.nev) && Objects.equals(szin, fruit.szin);
     }
 
     @Override
     public int hashCode() {
-        return super.hashCode(id,nev,szin);
+        return Objects.hash(id, nev, szin);
     }
-
-
 }
