@@ -87,8 +87,8 @@ public class Ora1 extends Object{
             System.out.println(arg);
         }
 
-        Fruit f1;
-        Fruit f2 = new Fruit();
+        //Fruit f1;
+        //Fruit f2 = new Fruit();
         Fruit f3 = new Fruit(0,"alma","piros");
         Fruit f4 = new Fruit(0,"narancs","narancs");
         System.out.println(f3.getNev());
