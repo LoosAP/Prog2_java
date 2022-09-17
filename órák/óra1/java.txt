@@ -1,0 +1,55 @@
+java.lang.Object
+    -Main
+    -Ora1
+        -ect
+        -ect
+
+int,double,float == Primitív tipusok
+
+Integer
+Double } lehet null érték
+Boolean
+
+
+automatikusan:
+byte -> short-> char-> int -> long -> float-> double
+
+manuálisan:
+ugyanaz mint automatikusan csak visszafele
+
+
+Ora1 ora1 -n -s1 -n2
+|       -inc()
+static  -printhello()
+
+Ora2 ora2 -n = 3 -s1= "3" -n1 - inc() -print()
+|
+static
+
+2.ora
+
+Object -> Vehicle -> Car
+
+annotációk : @-cal kezdődnek
+Override annotáció: felül van irva az alap java objecthez képest
+
+Javában minded függvény automatikusan Virtuális.
+
+Object -> Animal->Pig
+		->Dog
+super: közvetlen ősosztály
+
+static és nem static külömbség
+
+Object  -> Outer
+	-> Inner
+
+Animal -> static a1
+		->age
+		->name
+	->a2
+		->
+		->
+staticcel azt mondjuk meg változó szintü legyen vagy osztály szintü
+statichoz példányositani nem kell
+static nelkul a peldanyositas utan erhetjuk el az alaptagot
