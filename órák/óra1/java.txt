@@ -53,3 +53,14 @@ Animal -> static a1
 staticcel azt mondjuk meg változó szintü legyen vagy osztály szintü
 statichoz példányositani nem kell
 static nelkul a peldanyositas utan erhetjuk el az alaptagot
+
+óra3
+Interfacere programozunk, nem implementációra
+
+Command line|implementáció|Abstract interface
+
+szeresd az interfaceket
+
+A->C<-B  Nem lehetséges
+
+interface A->C<-interface B  lehetséges
