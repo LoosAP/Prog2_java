@@ -64,3 +64,15 @@ szeresd az interfaceket
 A->C<-B  Nem lehetséges
 
 interface A->C<-interface B  lehetséges
+
+óra4
+
+array jobb mint a tomb,nem veges. ha megszabottnal tobb a belepakolt info akkor megduplazodik a lefoglalt memoria.
+memoriat hamar zabalja ami nem jo
+trimtosize()-val le lehet vágni a használt méretre
+Array alapbol tartalmazza a Comparable interfacet
+[+,item,h]<->[+,item,h]<->[+,item,h]<->[+,item,h]
+    |
+   int
+
+
