@@ -1,0 +1,2 @@
+H;trex;szarazfold;R
+D;Stegoszaurusz;N;20,0;1500
