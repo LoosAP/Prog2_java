@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SzabomateMikulas/SzabomateMikulas.iml" filepath="$PROJECT_DIR$/SzabomateMikulas/SzabomateMikulas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ora10/ora10.iml" filepath="$PROJECT_DIR$/ora10/ora10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ora7/ora7.iml" filepath="$PROJECT_DIR$/ora7/ora7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/óra1/óra1.iml" filepath="$PROJECT_DIR$/óra1/óra1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/óra3/óra3.iml" filepath="$PROJECT_DIR$/óra3/óra3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/óra4/óra4.iml" filepath="$PROJECT_DIR$/óra4/óra4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/óra6/óra6.iml" filepath="$PROJECT_DIR$/óra6/óra6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/órák.iml" filepath="$PROJECT_DIR$/.idea/órák.iml" />
+    </modules>
+  </component>
+</project>
