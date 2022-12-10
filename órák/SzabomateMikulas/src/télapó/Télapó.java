@@ -38,7 +38,7 @@ public class Télapó {
         try {
         Scanner fileReader = new Scanner(file);
         while(fileReader.hasNextLine()){
-            Scanner rowReader = new Scanner(String.valueOf(fileReader.hasNextLine()));
+            Scanner rowReader = new Scanner(fileReader.nextLine());
             rowReader.useDelimiter(";");
             String név = rowReader.next();
             double tömeg = rowReader.nextDouble();
